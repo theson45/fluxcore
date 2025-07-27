@@ -13,9 +13,11 @@
       "update_obligation": "false"
     },
     {
-      "app_name": "VODENS2",
-      "latest_version": "1",
-      "download_url": "https://github.com/theson45/fluxcore/tree/main/updates/vodensbot_v1.zip",
+      "app_name": "TEST",
+      "latest_version": "1.0.1",
+      "download_url": "https://github.com/theson45/fluxcore/raw/refs/heads/main/updates/TEST_v1.0.1.zip",
+      "file_name":"TEST.exe",
+      "changelog":"TEST update v1.0 to v1.0.1",
       "update_obligation": "false"
     }
   ]
